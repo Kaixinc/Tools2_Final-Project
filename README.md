@@ -1,7 +1,7 @@
 # Tools2_Final-Project
 Final Project repository for data science 2
 # Team Member:
-Kaixin Chen
+Kaixin Chen  
 Ruiwen Jin
 # Problems/Motivation
 Based on Indeed.com, predict the salary user could get based on their skills in computer science field in Colorado.
