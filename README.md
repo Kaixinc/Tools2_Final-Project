@@ -16,6 +16,6 @@ Allow user to enter all the skills he has into our model and predict the salary 
 # How a user is going to test the final model. is there any webpage/command line interface. It can be like using curl from command line and calling a function(lambda via API gateway) in the cloud(AWS).
 We will build a webpage on AWS to allow user using our model.
 # Tentative time line of activities.
-4/25：Finish Dataset collection(include cleaning)
-5/10 Finish Model Building
-6/1: Finish the Project
+4/25：Finish Dataset collection(include cleaning)  
+5/10 Finish Model Building  
+6/1: Finish the Project  
